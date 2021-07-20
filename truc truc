@@ -1,0 +1,4 @@
+branche git -m principale principale
+git chercher l'origine
+git branch -u origine/principale principale
+git remote set-head origin -a
